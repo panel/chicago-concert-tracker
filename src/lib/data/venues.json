@@ -1,0 +1,44 @@
+{
+  "venues": [
+    {
+      "id": "cobra-lounge",
+      "name": "Cobra Lounge",
+      "website": "https://cobralounge.com/events/"
+    },
+    {
+      "id": "sleeping-village",
+      "name": "Sleeping Village",
+      "website": "https://sleeping-village.com/events/"
+    },
+    {
+      "id": "beat-kitchen",
+      "name": "Beat Kitchen",
+      "website": "https://beatkitchen.com/"
+    },
+    {
+      "id": "schubas",
+      "name": "Schubas Tavern",
+      "website": "https://lh-st.com/"
+    },
+    {
+      "id": "lincoln-hall",
+      "name": "Lincoln Hall",
+      "website": "https://lh-st.com/"
+    },
+    {
+      "id": "empty-bottle",
+      "name": "Empty Bottle",
+      "website": "https://www.emptybottle.com/"
+    },
+    {
+      "id": "subterranean",
+      "name": "Subterranean",
+      "website": "https://subt.net/"
+    },
+    {
+      "id": "bottom-lounge",
+      "name": "Bottom Lounge",
+      "website": "https://bottomlounge.com/events/"
+    }
+  ]
+}

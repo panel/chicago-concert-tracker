@@ -32,8 +32,9 @@
 
 		<!-- Show mini-cards -->
 		{#each day.shows as show (show.id)}
-			<div
-				class="mb-0.5 overflow-hidden px-1 py-0.5 {statusBorder[show.status]}"
+			<a
+				href="/shows/{show.id}"
+				class="mb-0.5 block overflow-hidden px-1 py-0.5 transition-opacity hover:opacity-70 {statusBorder[show.status]}"
 				title="{show.artists.map((a) => a.name).join(', ')}{show.unknownArtists.length ? ', ' + show.unknownArtists.join(', ') : ''} @ {show.venue.name}"
 			>
 				<p class="truncate text-[9px] font-bold uppercase leading-tight text-bauhaus-fg md:text-[10px]">
@@ -42,7 +43,7 @@
 				<p class="truncate text-[8px] font-medium text-bauhaus-fg/50 md:text-[9px]">
 					{show.venue.name}
 				</p>
-			</div>
+			</a>
 		{/each}
 	</div>
 {/if}

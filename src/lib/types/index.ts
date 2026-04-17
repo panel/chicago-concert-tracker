@@ -17,7 +17,7 @@ export interface Artist {
 	labels: string[];
 	match_type: 'main' | 'stretch' | 'reference';
 	notes: string;
-	playlist_tracks: string[];
+	playlist_tracks: { name: string; spotify_id: string }[];
 	first_recommended: string;
 }
 

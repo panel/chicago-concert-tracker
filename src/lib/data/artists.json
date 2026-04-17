@@ -6,7 +6,10 @@
       "labels": ["Exploding in Sound"],
       "match_type": "main",
       "notes": "Chicago post-punk trio. Optimizer (2026) is Stereogum Album of the Week. Angular, motorik punk with lyrics about grief and social media rot.",
-      "playlist_tracks": ["Instakill", "Totally Vexed"],
+      "playlist_tracks": [
+        { "name": "Instakill", "spotify_id": "2cuQJNo7XqLwfNnzNzJMOD" },
+        { "name": "Totally Vexed", "spotify_id": "1LiUDAItzQxk019rBiwaUp" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -15,7 +18,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Chicago post-punk. Lean, geometric arrangements. Lyrics about housing, gentrification, and redlining.",
-      "playlist_tracks": ["Phantom Vibration", "Victim of Redlining"],
+      "playlist_tracks": [
+        { "name": "Phantom Vibration", "spotify_id": "6c8Dcs0bbOmXBXM0KW4pCM" },
+        { "name": "Victim of Redlining", "spotify_id": "1w2bRzqUf2abbXCbY3ttUe" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -24,7 +30,10 @@
       "labels": ["Run for Cover"],
       "match_type": "main",
       "notes": "Kevin Patrick Sullivan's lo-fi bedroom folk project. Personal storytelling, emo sensibility. Sounds like it was written at 3am.",
-      "playlist_tracks": ["uuu", "POWERFUL LOVE"],
+      "playlist_tracks": [
+        { "name": "uuu", "spotify_id": "6KkRfiQbqAzIEJA7w7wHxG" },
+        { "name": "POWERFUL LOVE", "spotify_id": "1P5FmMU0BUjBujbBAr4yM7" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -33,7 +42,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Reference artist. Show: Cobra Lounge Apr 26 w/ Innerlove, The Stigs.",
-      "playlist_tracks": ["World Apart", "You Want It You Got It"],
+      "playlist_tracks": [
+        { "name": "World Apart", "spotify_id": "6tAIL5bzj3hE7eWlRE2Ru6" },
+        { "name": "You Want It You Got It", "spotify_id": "0iVyBRoFmD8aK7kncgegtN" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -42,7 +54,10 @@
       "labels": [],
       "match_type": "stretch",
       "notes": "Toronto darkwave duo. New album Possessor (March 2026). Motorik drums, angular guitars, anthemic hooks.",
-      "playlist_tracks": ["Burn in Heaven", "I Was Ill, You Were Wrong"],
+      "playlist_tracks": [
+        { "name": "Burn in Heaven", "spotify_id": "4MszFwRxafaUBiBZ1Mbkml" },
+        { "name": "I Was Ill, You Were Wrong", "spotify_id": "4y6XktGc63q7M4bYg0uBBv" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -51,7 +66,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "UK indie rock trio from Wakefield. Punk edge meets Britpop melody. Johnny Marr was a member 2008-2011.",
-      "playlist_tracks": ["Men's Needs", "Be Safe"],
+      "playlist_tracks": [
+        { "name": "Men's Needs", "spotify_id": "3qel23hQWhHT3qGewBQ0pE" },
+        { "name": "Be Safe", "spotify_id": "37SXOukD7A0vygSg1BB3tN" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -60,7 +78,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Olympia, WA folk-punk six-piece. Country/punk maximalism. Hopeful, shout-alongable.",
-      "playlist_tracks": ["Feather River Canyon Blues", "River Song"],
+      "playlist_tracks": [
+        { "name": "Feather River Canyon Blues", "spotify_id": "6nVBMJ96xSDVX5VKflR0Ie" },
+        { "name": "River Song", "spotify_id": "1NRrfACIU3BbatxozNfMjZ" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -69,7 +90,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Colorado folk-punk collective. Aggressive melodic crust-wave with layered harmonies.",
-      "playlist_tracks": ["Immoral Compass", "When Will I Disappear"],
+      "playlist_tracks": [
+        { "name": "Immoral Compass", "spotify_id": "0xDmD0S2thlVWP1dI3Eknf" },
+        { "name": "When Will I Disappear", "spotify_id": "45j0V3j8I0XboDHg6dKk43" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -78,7 +102,10 @@
       "labels": [],
       "match_type": "stretch",
       "notes": "Edmonton post-punk/new wave. Big shout-along choruses. Riot Fest-associated.",
-      "playlist_tracks": ["Nation", "Games Of Power"],
+      "playlist_tracks": [
+        { "name": "Nation", "spotify_id": "3itvhplfUMg6178eQXoQCf" },
+        { "name": "Games Of Power", "spotify_id": "04VvUoRWHKXWIjESdpzx0O" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -87,7 +114,10 @@
       "labels": ["So Young"],
       "match_type": "main",
       "notes": "NYC indie duo. Emo-inflected indie rock drawing on Rainer Maria, The Promise Ring, The Walkmen. Opening for Vundabar May 16.",
-      "playlist_tracks": ["There Were Stars In Your Eyes", "Brother"],
+      "playlist_tracks": [
+        { "name": "There Were Stars In Your Eyes", "spotify_id": "01ZyxPFB1XvG5x3E5gtoMW" },
+        { "name": "Brother", "spotify_id": "0k0mPVleEMaHlFXsUlgNCu" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -96,7 +126,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Detroit pop-punk. Gospel 15th Anniversary Tour. Anthemic, strong live reputation.",
-      "playlist_tracks": ["Run, Brother, Run", "Bed Sores"],
+      "playlist_tracks": [
+        { "name": "Run, Brother, Run", "spotify_id": "58oo2u9ygmsj05ahWru4y8" },
+        { "name": "Bed Sores", "spotify_id": "4AjxD6n9vvbO7t6QtWZFHv" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -105,7 +138,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Reference artist. Playing Cobra Lounge May 17 with Kali Masi and Her Head's On Fire.",
-      "playlist_tracks": ["Pace Car", "Everyone I Know (The Optimist)"],
+      "playlist_tracks": [
+        { "name": "Pace Car", "spotify_id": "1umgMtt9rPBCOT1bb36HmW" },
+        { "name": "Everyone I Know (The Optimist)", "spotify_id": "3VgcgODvxbEqotDZiBMSvN" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -114,7 +150,10 @@
       "labels": [],
       "match_type": "main",
       "notes": "Chicago emo/punk trio. Deep DIY roots. Midwestern emo meets angular garage punk. Urgent, emotive, earnest.",
-      "playlist_tracks": ["Powerline Days", "Some Friends"],
+      "playlist_tracks": [
+        { "name": "Powerline Days", "spotify_id": "2zTxeqIb8epFDnb4IowOzV" },
+        { "name": "Some Friends", "spotify_id": "71Gcy0eSuKrbDzpIiaGwHn" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -123,7 +162,10 @@
       "labels": ["Iodine"],
       "match_type": "main",
       "notes": "Chicago post-hardcore/emo. Members of Small Brown Bike, Garrison, Saves the Day. '90s alt/grunge influence.",
-      "playlist_tracks": ["Burn", "Rising Tide"],
+      "playlist_tracks": [
+        { "name": "Burn", "spotify_id": "2h49qy5b6jhd5l4l9deqId" },
+        { "name": "Rising Tide", "spotify_id": "79P15GnoNjgTivtOTZkNFa" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -132,7 +174,9 @@
       "labels": ["Captured Tracks"],
       "match_type": "main",
       "notes": "Reference artist. New album Roses out June 5, 2026. If You Change is the lead single.",
-      "playlist_tracks": ["If You Change"],
+      "playlist_tracks": [
+        { "name": "If You Change", "spotify_id": "25JwuQuID6TFelmbUr9vgy" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -141,7 +185,9 @@
       "labels": [],
       "match_type": "stretch",
       "notes": "Irish shoegaze/noise rock. Playing Empty Bottle mid-May.",
-      "playlist_tracks": ["Deaf"],
+      "playlist_tracks": [
+        { "name": "Deaf", "spotify_id": "4XxcYQq3q2hxjTTKKyiyR4" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -150,7 +196,9 @@
       "labels": [],
       "match_type": "reference",
       "notes": "Reference artist. Playing Empty Bottle Apr 30.",
-      "playlist_tracks": ["Future Spring"],
+      "playlist_tracks": [
+        { "name": "Future Spring", "spotify_id": "1gtphJS6qQn3VlxGYPCD33" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -159,7 +207,10 @@
       "labels": [],
       "match_type": "reference",
       "notes": "Reference artist. Gawk 10 Year Anniversary show at Beat Kitchen May 16.",
-      "playlist_tracks": ["Alien Blues", "Alien Blues (Acoustic)"],
+      "playlist_tracks": [
+        { "name": "Alien Blues", "spotify_id": "11iIikXxC6NP0Ma8vMD27x" },
+        { "name": "Alien Blues (Acoustic)", "spotify_id": "2XoITPiLTVpd7qhZmvoL6a" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -168,7 +219,10 @@
       "labels": [],
       "match_type": "reference",
       "notes": "Reference artist. Playing Empty Bottle May 7.",
-      "playlist_tracks": ["Better Than Ever", "Motorcycle"],
+      "playlist_tracks": [
+        { "name": "Better Than Ever", "spotify_id": "29wasPuhAidYxMC6WXR3JS" },
+        { "name": "Motorcycle", "spotify_id": "4k5QJm4DklGTyG984kRA4c" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -177,7 +231,10 @@
       "labels": [],
       "match_type": "reference",
       "notes": "Reference artist. Playing Empty Bottle mid-May.",
-      "playlist_tracks": ["Mind Disaster", "Impostor"],
+      "playlist_tracks": [
+        { "name": "Mind Disaster", "spotify_id": "0zmT8YKaFonkxnyB6VMGEs" },
+        { "name": "Impostor", "spotify_id": "75RFwKV6wjJiCQmuoUY69f" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -186,7 +243,10 @@
       "labels": [],
       "match_type": "reference",
       "notes": "Reference artist. Playing Empty Bottle Apr 24.",
-      "playlist_tracks": ["New Times, New Hope", "Lion & Oil"],
+      "playlist_tracks": [
+        { "name": "New Times, New Hope", "spotify_id": "2DiKzEiGmfgOa0cqeoqHnN" },
+        { "name": "Lion & Oil", "spotify_id": "01w9jwQ1VfrdEzejeJXwHR" }
+      ],
       "first_recommended": "2026-04-16"
     },
     {
@@ -195,7 +255,10 @@
       "labels": [],
       "match_type": "reference",
       "notes": "Reference artist. Playing Bottom Lounge May 15.",
-      "playlist_tracks": ["serfs up", "Empty room (full band demo)"],
+      "playlist_tracks": [
+        { "name": "serfs up", "spotify_id": "6g5I1NP92dAQDKQ6xszHiT" },
+        { "name": "Empty room (full band demo)", "spotify_id": "05CqSuSF5Qfg87RPTPqkCZ" }
+      ],
       "first_recommended": "2026-04-16"
     }
   ]

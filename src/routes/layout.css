@@ -1,2 +1,20 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
+
+@theme {
+	--color-bauhaus-red: #d02020;
+	--color-bauhaus-blue: #1040c0;
+	--color-bauhaus-yellow: #f0c020;
+	--color-bauhaus-bg: #f0f0f0;
+	--color-bauhaus-fg: #121212;
+	--color-bauhaus-muted: #e0e0e0;
+	--font-sans: 'Outfit', sans-serif;
+}
+
+@layer base {
+	html {
+		background-color: #f0f0f0;
+		color: #121212;
+		font-family: 'Outfit', sans-serif;
+	}
+}

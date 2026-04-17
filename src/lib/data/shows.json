@@ -16,7 +16,8 @@
       "artists": ["Stuck", "Landowner"],
       "recommended": true,
       "notes": "Stuck Optimizer album release show.",
-      "discovery_date": "2026-04-16"
+      "discovery_date": "2026-04-16",
+      "attended": true
     },
     {
       "id": "field-medic-subterranean-20260425",
@@ -25,7 +26,8 @@
       "artists": ["Field Medic"],
       "recommended": true,
       "notes": null,
-      "discovery_date": "2026-04-16"
+      "discovery_date": "2026-04-16",
+      "tickets_purchased": true
     },
     {
       "id": "bike-routes-cobra-lounge-20260426",
@@ -34,7 +36,8 @@
       "artists": ["Bike Routes", "Innerlove", "The Stigs"],
       "recommended": true,
       "notes": "Innerlove and The Stigs not yet evaluated.",
-      "discovery_date": "2026-04-16"
+      "discovery_date": "2026-04-16",
+      "interested": true
     },
     {
       "id": "gladie-empty-bottle-20260430",

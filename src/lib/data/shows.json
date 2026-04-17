@@ -1,0 +1,157 @@
+{
+  "shows": [
+    {
+      "id": "times-new-viking-empty-bottle-20260424",
+      "date": "2026-04-24",
+      "venue_id": "empty-bottle",
+      "artists": ["Times New Viking", "TV Buddha", "Temps"],
+      "recommended": false,
+      "notes": "Times New Viking is a reference artist. TV Buddha and Temps not yet evaluated.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "stuck-sleeping-village-20260424",
+      "date": "2026-04-24",
+      "venue_id": "sleeping-village",
+      "artists": ["Stuck", "Landowner"],
+      "recommended": true,
+      "notes": "Stuck Optimizer album release show.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "field-medic-subterranean-20260425",
+      "date": "2026-04-25",
+      "venue_id": "subterranean",
+      "artists": ["Field Medic"],
+      "recommended": true,
+      "notes": null,
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "bike-routes-cobra-lounge-20260426",
+      "date": "2026-04-26",
+      "venue_id": "cobra-lounge",
+      "artists": ["Bike Routes", "Innerlove", "The Stigs"],
+      "recommended": true,
+      "notes": "Innerlove and The Stigs not yet evaluated.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "gladie-empty-bottle-20260430",
+      "date": "2026-04-30",
+      "venue_id": "empty-bottle",
+      "artists": ["Gladie", "Noun", "Sick Day"],
+      "recommended": false,
+      "notes": "Gladie is a reference artist. Noun and Sick Day not yet evaluated.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "traitrs-sleeping-village-20260505",
+      "date": "2026-05-05",
+      "venue_id": "sleeping-village",
+      "artists": ["Traitrs"],
+      "recommended": true,
+      "notes": "Stretch pick. Darkwave/coldwave.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "cribs-empty-bottle-20260505",
+      "date": "2026-05-05",
+      "venue_id": "empty-bottle",
+      "artists": ["The Cribs"],
+      "recommended": true,
+      "notes": null,
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "liz-cooper-empty-bottle-20260507",
+      "date": "2026-05-07",
+      "venue_id": "empty-bottle",
+      "artists": ["Liz Cooper"],
+      "recommended": false,
+      "notes": "Reference artist.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "pigeon-pit-beat-kitchen-20260510",
+      "date": "2026-05-10",
+      "venue_id": "beat-kitchen",
+      "artists": ["Pigeon Pit", "Doom Scroll", "Mother's Day Rogers"],
+      "recommended": true,
+      "notes": "Mother's Day Rogers not yet evaluated.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "home-front-cobra-lounge-20260514",
+      "date": "2026-05-14",
+      "venue_id": "cobra-lounge",
+      "artists": ["Home Front"],
+      "recommended": true,
+      "notes": "Stretch pick. Riot Fest presented.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "slow-fiction-beat-kitchen-20260515",
+      "date": "2026-05-15",
+      "venue_id": "beat-kitchen",
+      "artists": ["Slow Fiction"],
+      "recommended": true,
+      "notes": null,
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "teen-suicide-bottom-lounge-20260515",
+      "date": "2026-05-15",
+      "venue_id": "bottom-lounge",
+      "artists": ["Teen Suicide"],
+      "recommended": false,
+      "notes": "Reference artist.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "vundabar-beat-kitchen-20260516",
+      "date": "2026-05-16",
+      "venue_id": "beat-kitchen",
+      "artists": ["Vundabar", "Slow Fiction"],
+      "recommended": false,
+      "notes": "Vundabar is a reference artist. Slow Fiction opens — already recommended on their own show.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "fireworks-bottom-lounge-20260516",
+      "date": "2026-05-16",
+      "venue_id": "bottom-lounge",
+      "artists": ["Fireworks"],
+      "recommended": true,
+      "notes": "Gospel 15th Anniversary Tour.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "ways-away-cobra-lounge-20260517",
+      "date": "2026-05-17",
+      "venue_id": "cobra-lounge",
+      "artists": ["Ways Away", "Kali Masi", "Her Head's On Fire"],
+      "recommended": true,
+      "notes": "Stacked bill.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "miss-grit-empty-bottle-20260518",
+      "date": "2026-05-18",
+      "venue_id": "empty-bottle",
+      "artists": ["Miss Grit", "Just Mustard", "Portrayal of Guilt"],
+      "recommended": false,
+      "notes": "Miss Grit is a reference artist. Just Mustard is a stretch pick (already in playlist). Date approximate — mid-May.",
+      "discovery_date": "2026-04-16"
+    },
+    {
+      "id": "widowspeak-schubas-20260628",
+      "date": "2026-06-28",
+      "venue_id": "schubas",
+      "artists": ["Widowspeak"],
+      "recommended": false,
+      "notes": "Reference artist. Promoting new album Roses (June 5, 2026, Captured Tracks).",
+      "discovery_date": "2026-04-16"
+    }
+  ]
+}
